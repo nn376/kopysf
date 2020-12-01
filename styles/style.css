@@ -117,7 +117,7 @@ nav a:hover {
 }
 
 .hero {
-  background-image: url("https://assets.codepen.io/3529118/second-kids-basketball.png");
+  background-image: url("/images/kop1.jpg");
   width: 100%;
   height: 100vh;
   background-size: cover;
@@ -189,7 +189,7 @@ nav a:hover {
   top: 250px;
   z-index: 5;
   text-align: center;
-  test-tranform: uppercase;
+  text-transform: uppercase;
   color: white;
 }
 
@@ -201,7 +201,7 @@ nav a:hover {
   border-radius: 25px;
   border: none;
   background-color: #C10A19;
-  text-color: #ffffff;
+  color: #ffffff;
 }
 
 .submit-button:hover {
@@ -261,7 +261,7 @@ h2{
 }
 
 .stories{
-   background-image:url(https://assets.codepen.io/3529118/case-study-20180222-fox-sports-hero.png);
+   background-image:url(/images/kop12.svg);
   width: 100%;
   padding: 100px, 0;
   float: center;
@@ -282,7 +282,7 @@ h2{
 }
 
 .tournaments{
-  background-image: url(https://assets.codepen.io/3529118/Asiya_Shopify_Background_4_2048x2048_1.png);
+  background-image: url(/images/kop13.svg);
   width:100%;
  padding:100px, 0;
  float: center;
