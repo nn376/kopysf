@@ -227,7 +227,7 @@ p{
   font-weight: 100;
   margin: 0 0 20px 0; 
 	line-height: 2;
-	color: #4D4D4D; 
+	color: #FFFFFF; 
 }
 
 h2{
@@ -235,8 +235,17 @@ h2{
   font-weight: 600;
   margin: 0 0 20px 0;
   line-height: 1.2;
-  color: #0C3FB1;
+  color: #8B0000;
   
+}
+
+h4{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  margin: 0 0 20px 0;
+  line-height: 1.2;
+  color: #F5D773;
+
 }
 .container {
   width: 90%;
@@ -252,6 +261,12 @@ h2{
   justify-content: center;
 }
 
+.mission-statement{
+  background-color: #10142D;
+  width:100%;
+  padding: 100px, 0;
+  float:center;
+}
 .columns_4 {
   margin: 3em;
 }
@@ -265,10 +280,17 @@ h2{
   width: 100%;
   padding: 100px, 0;
   float: center;
+  text-decoration-color: #FFFFFF;
 }
 
+.stories img{
+  width: 100%;
+  padding: 10px 0;
+  float: center;
+  border-radius: 10px;
+}
 .events{
-  background-color:#FFFFFF;
+  background-color:#10142D;
   width:100%;
   padding:100px, 0;
   float: center;
@@ -288,8 +310,16 @@ h2{
  float: center;
 }
 
+.heading{
+  color: #F5D773;
+}
+
+.schedule{
+  color: #FFFFFF;
+}
+
 .board{
-  background-color: #FFFFFF;
+  background-color: #10142D;
   width:100%;
   padding:100px, 0;
  float: center;
