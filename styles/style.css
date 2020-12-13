@@ -333,7 +333,16 @@ h4{
   gap: .5em .5em;
 }
 
+h6{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  margin: 0 0 20px 0;
+  line-height: 1.2;
+  color: #F5D773;
+}
 footer{
-  height: 20vh;
-  background: #161C3E;
+  height: 50vh;
+  width: 100%;
+  padding: 100px, 0;
+  background-color: #161C3E;
 }
